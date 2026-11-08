@@ -1,0 +1,5 @@
+com/utfpr/dynamodb/DynamoDbConfig.class
+com/utfpr/dynamodb/SensorService.class
+com/utfpr/dynamodb/SensorController.class
+com/utfpr/dynamodb/Application.class
+com/utfpr/dynamodb/SensorData.class
